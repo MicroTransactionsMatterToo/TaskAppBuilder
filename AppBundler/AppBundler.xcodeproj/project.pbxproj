@@ -294,6 +294,7 @@
 				B48DC59C1C8116E400913FEF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

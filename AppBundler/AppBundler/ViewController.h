@@ -7,6 +7,7 @@
 //
 
 #import <Cocoa/Cocoa.h>
+#include "MainWindow.h"
 
 @interface ViewController : NSViewController
 

@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#include "MainWindow.h"
 
 @interface AppDelegate ()
 
