@@ -8,15 +8,13 @@
 #include <iostream>
 #include <unistd.h>
 #include <fstream>
-#include <vector>
-#include <fstream>
+#include <map>
 #include <dirent.h>
 #include <sys/types.h>
 #include <regex>
 // Includes (My Files)
 #include "functions.h"
 // Class Includes
-#include "appAdd.h"
 // Saving me from std::
 using std::string;
 using std::cout;

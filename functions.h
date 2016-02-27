@@ -11,9 +11,7 @@
 void greet();
 void findName();
 // Classes
-class functions {
 
-};
 
 
 #endif //APPBUNDLER_FUNCTIONS_H
